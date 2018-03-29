@@ -31,4 +31,4 @@ color5 = RectangleAsset(1000,1000,LineStyle(1,red),red)
 
 App.listenMouseEvent("click", mouseClick)
 
-App.run()
+App().run()
